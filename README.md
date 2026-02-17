@@ -114,7 +114,10 @@ Key fields:
 *   Optimized for BI query performance    
 *   Clear separation of descriptive attributes    
 *   Simplified joins for reporting tools    
-*   Supports scalable fact table growth    
+*   Supports scalable fact table growth
+
+
+<img width="1024" height="702" alt="Screenshot 2026-02-17 111924" src="https://github.com/user-attachments/assets/c5078051-b02d-4f02-b7c1-76f94bcc3897" />
 
 5\. ETL Workflow
 ----------------
@@ -186,7 +189,9 @@ Interactive filtering:
 
 *   Date range    
 *   Product category    
-*   Store location    
+*   Store location
+
+<img width="1120" height="671" alt="Screenshot 2026-02-17 115937" src="https://github.com/user-attachments/assets/badae049-25bb-4eb0-accd-13442c05c213" />
 
 9\. Key Engineering Decisions
 -----------------------------
@@ -206,7 +211,4 @@ Interactive filtering:
 *   Partitioned fact table    
 *   DirectQuery mode for real-time BI    
 *   CI/CD integration
-
-<img width="1024" height="702" alt="Screenshot 2026-02-17 111924" src="https://github.com/user-attachments/assets/c5078051-b02d-4f02-b7c1-76f94bcc3897" />
-<img width="1120" height="671" alt="Screenshot 2026-02-17 115937" src="https://github.com/user-attachments/assets/badae049-25bb-4eb0-accd-13442c05c213" />
 
